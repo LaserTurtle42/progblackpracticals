@@ -1,0 +1,45 @@
+html {
+    font-size: 15px;
+    font-family: monospace;
+    background-color: black;
+    color: antiquewhite;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size:2rem;
+    font-weight: bold;
+}
+
+th, td {
+    border: 1px solid darkslategray;
+    padding: 8px 8px;
+}
+
+th {
+    background-color: darkslategray;
+    color: white;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid darkslategray;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-type: circle;
+}
+
+#List {
+    color:darkgrey;
+}
+
+#Table {
+    color:beige;
+}
